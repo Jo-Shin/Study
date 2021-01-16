@@ -1,1 +1,1 @@
-# study
+# machine_learining_study
