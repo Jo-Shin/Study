@@ -13,6 +13,9 @@
 - 자연어 처리 공부
 - [딥러닝을 이용한 자연어 처리 입문, 유원준 외 1명 지음](https://wikidocs.net/book/2155)
 
+## pytorch
+- pytorch framwork 기초 공부
+
 
 
 
