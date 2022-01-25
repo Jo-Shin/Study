@@ -1,2 +1,18 @@
-## 데이터 스터디
-- 알고리즘 등 데이터 스터디를 하면서 작성한 코드들입니다.
+# Study with code
+- 공부 과정에서 작성한 코드들입니다.
+
+## Algorithm
+- 알고리즘 공부
+- [이것이 코딩 테스트다, 나동빈 지음] 
+- [백준 코딩 테스트](https://www.acmicpc.net/)
+
+## Kaggle_Bike
+- Kaggle 공유 자전거 데이터 EDA 및 시각화
+
+## NLP
+- 자연어 처리 공부
+- [딥러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
+
+
+
+
