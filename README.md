@@ -16,6 +16,10 @@
 ## pytorch
 - pytorch framwork 기초 공부
 
+## MySQL
+- 이것이 MySQL이다. 우재남 지음
+- MySQL 쿼리문 및 DB 이론 공부
+
 
 
 
